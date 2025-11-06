@@ -1,0 +1,7 @@
+{
+  "name": "EcoPulse",
+  "description": "Analyzes the sustainability of products from an image, URL, or barcode, providing an eco-score, a brief analysis, and greener alternatives using the Gemini API.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
