@@ -16,8 +16,8 @@
 
 | Link | URL |
 |------|-----|
-| 🌐 **Try It Out Live** | [https://your-cloud-run-app-url.a.run.app](https://your-cloud-run-app-url.a.run.app) |
-| 🎬 **Demo Video** | *Watch the 3-minute Demo on YouTube* |
+| 🌐 **Try It Out Live** | [https://ecopulse-1005723035457.us-west1.run.app](https://ecopulse-1005723035457.us-west1.run.app) |
+| 🎬 **Demo Video** | *Watch the 3-minute Demo on YouTube* | [Youtube](https://youtu.be/3DoJAjEMF_I)
 | 🤖 **AI Studio Prompts** | *View the Prompts in Google AI Studio* |
 | 📂 **Public Code Repo** | [https://github.com/AB2511/ecopulse-alpha](https://github.com/AB2511/ecopulse-alpha) |
 
